@@ -229,7 +229,7 @@ Your new action will run any time a new commit is created or pushed to the remot
 
 _Congratulations friend, you've completed this course!_
 
-<img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right>
+<img src=https://octodex.github.com/images/jetpacktocat.png alt=celebrate width=300 align=right> 
 
 Here's a recap of all the tasks you've accomplished in your repository:
 
@@ -259,3 +259,4 @@ Here's a recap of all the tasks you've accomplished in your repository:
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+emoji
